@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+
+
+bonjour je suis cabrel 
+j'ai travaillé avec foche sur la connexion au serveur
+=======
+je suis dadju
+
+>>>>>>> ba90da11dbc17be4c30daafaffb6e3bbb25e735b
